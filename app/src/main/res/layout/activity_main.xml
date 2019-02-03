@@ -22,4 +22,17 @@
         android:text="reload"
         android:layout_gravity="center"/>
 
+    <ImageView
+        android:id="@+id/gifView"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/weatherBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="show weather"
+        android:layout_gravity="right"/>
+
 </LinearLayout>
